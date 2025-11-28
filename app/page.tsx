@@ -1,9 +1,8 @@
-export default function Page() {
+export default function LoginPage() {
   return (
-    <main className="flex min-h-screen items-center justify-center">
-      <h1 className="text-4xl text-blue-600 font-bold">
-        Tailwind Working ✔️
-      </h1>
-    </main>
+    <div className="min-h-screen flex items-center justify-center bg-gray-100">
+      <h1 className="text-3xl font-bold text-blue-600">Login Page Working ✔️</h1>
+    </div>
   );
 }
+ 
